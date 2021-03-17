@@ -1,3 +1,3 @@
 Auger Antoine
 Bedjaoui Khalil
-On a créé une nouvelle branche, on a ensuite basculé dessus puis ajouté ce fichier là dessus. C'est donc pour cela qu'on ne le voit plus dans la branche précédente 
+On a créé une nouvelle branche, on a ensuite basculé dessus puis ajouté ce fichier là dessus. C'est donc pour cela qu'on ne le voit plus dans la branche précédente.
